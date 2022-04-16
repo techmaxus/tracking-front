@@ -1,3 +1,3 @@
-const backendUrl = "https://trackingprep.herokuapp.com/";
+const backendUrl = "https://trackingprep.herokuapp.com";
 
 export default backendUrl;
